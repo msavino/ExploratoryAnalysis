@@ -21,4 +21,4 @@ createPlot3 ("/Users/tzhsami6/Downloads", "household_power_consumption.txt")
 createPlot4 ("/Users/tzhsami6/Downloads", "household_power_consumption.txt")
 
 
-
+P.S: I used german date format:  DO instead of THU in the plot. it's the german initial of Thursday
