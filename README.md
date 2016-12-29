@@ -10,6 +10,7 @@ Download and Run R Scripts
 ---------------------------
 Download the scripts (plot1.R, plot2.R, plot3.R, plot4.R) to some directory;
 Run the scripts so that 4 functions were created.
+every function uses the "d" dataframe to load all data and the "TwoDays" to load only the data of the 1st and 2nd of February
 
 Call the 4 functions
 ---------------------
